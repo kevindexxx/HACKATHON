@@ -33,7 +33,7 @@ body {
   position: absolute;
   padding: 90px 70px 50px 70px;
   background: rgba(40, 57, 101, 0.9);
-  background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("https://images.bisnis.com/posts/2021/02/04/1352298/perumahan-bersubsidi-kementerian-pupr-msl2.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("https://images.bisnis.com/posts/2021/02/04/1352298/perumahan-bersubsidi-kementerian-pupr-msl2.jpg");
   background-size: cover;
   background-position: center; 
   background-repeat: no-repeat;
